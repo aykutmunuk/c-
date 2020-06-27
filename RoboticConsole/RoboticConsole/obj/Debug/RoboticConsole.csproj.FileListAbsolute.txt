@@ -1,0 +1,6 @@
+C:\Users\aykut.munuk\source\repos\RoboticConsole\RoboticConsole\obj\Debug\RoboticConsole.csproj.CoreCompileInputs.cache
+C:\Users\aykut.munuk\source\repos\RoboticConsole\RoboticConsole\bin\Debug\RoboticConsole.exe
+C:\Users\aykut.munuk\source\repos\RoboticConsole\RoboticConsole\bin\Debug\RoboticConsole.pdb
+C:\Users\aykut.munuk\source\repos\RoboticConsole\RoboticConsole\obj\Debug\RoboticConsole.exe
+C:\Users\aykut.munuk\source\repos\RoboticConsole\RoboticConsole\obj\Debug\RoboticConsole.pdb
+C:\Users\aykut.munuk\source\repos\RoboticConsole\RoboticConsole\obj\Debug\RoboticConsole.csprojAssemblyReference.cache
