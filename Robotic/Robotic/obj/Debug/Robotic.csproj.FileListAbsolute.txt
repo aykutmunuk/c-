@@ -1,0 +1,8 @@
+C:\Users\aykut.munuk\source\repos\Robotic\Robotic\bin\Debug\Robotic.exe
+C:\Users\aykut.munuk\source\repos\Robotic\Robotic\bin\Debug\Robotic.pdb
+C:\Users\aykut.munuk\source\repos\Robotic\Robotic\obj\Debug\Robotic.Properties.Resources.resources
+C:\Users\aykut.munuk\source\repos\Robotic\Robotic\obj\Debug\Robotic.csproj.GenerateResource.cache
+C:\Users\aykut.munuk\source\repos\Robotic\Robotic\obj\Debug\Robotic.csproj.CoreCompileInputs.cache
+C:\Users\aykut.munuk\source\repos\Robotic\Robotic\obj\Debug\Robotic.exe
+C:\Users\aykut.munuk\source\repos\Robotic\Robotic\obj\Debug\Robotic.pdb
+C:\Users\aykut.munuk\source\repos\Robotic\Robotic\obj\Debug\Robotic.frmRobotic.resources
